@@ -1,0 +1,12 @@
+---
+:id: 18587827
+:submitters:
+- :name: Haotian Xia
+  :email: haotianxia@umail.ucsb.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-06-04 23:35:55.522415000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-06-04 16:35:55.522415000 Z
+:status: processed
+:score: 100.0
